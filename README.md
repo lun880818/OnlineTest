@@ -127,7 +127,7 @@ This application allows teachers to create online quizzes for students and enabl
 
 #### 4. **學生功能選單：**<br>
 學生登入成功後將會進入功能選單頁面，可執行的功能有：<br>
-(1) 開始寫考卷：進入學生考卷列表([./學生考卷列表.md](https://github.com/lun880818/OnlineTest/tree/main?tab=readme-ov-file#5-%E5%AD%B8%E7%94%9F%E8%80%83%E5%8D%B7%E5%88%97%E8%A1%A8))，讓學生選擇考卷進行作答<br>
+(1) 開始寫考卷：進入[學生考卷列表](https://github.com/lun880818/OnlineTest/tree/main?tab=readme-ov-file#5-%E5%AD%B8%E7%94%9F%E8%80%83%E5%8D%B7%E5%88%97%E8%A1%A8))，讓學生選擇考卷進行作答<br>
 (2) 歷史成績查詢：學生可查詢寫過的考卷及成績<br>
 (3) 個人資料修改：可修改學生個人資料<br>
 
@@ -135,7 +135,19 @@ This application allows teachers to create online quizzes for students and enabl
 <br><br>
 
 #### 5. **學生考卷列表：**
+將顯示學生還沒作答的考卷列表，選擇某一份考卷，再點擊「開始作答」，將進入[考試頁面]()
 
+
+####6. **考試頁面：**
+
+
+####7. **歷史成績查詢：**
+
+
+#### 8. **個人資料修改：**可修改學生個人資料<br><br>
+
+![學生資料修改](GitHub解說圖片/學生資料修改.jpg)
+<br><br>
 
 
 
