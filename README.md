@@ -156,7 +156,7 @@ This application allows teachers to create online quizzes for students and enabl
 <img src="GitHub解說圖片/考卷.jpg" width="640" height="360" alt="考卷">
 <br>
 
-交卷後，會即時顯示考試結果。
+交卷後，會即時顯示考試結果。<br>
 <img src="GitHub解說圖片/考試結果.jpg" width="640" height="360" alt="考試結果">
 <br><br>
 
