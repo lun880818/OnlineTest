@@ -48,10 +48,10 @@ This application allows teachers to create online quizzes for students and enabl
 
 #### 4. **教師功能選單：**<br>
 教師登入成功後將會進入功能選單頁面，可執行的功能有：<br>
-(1) 出考卷(電腦出題)：若教師希望由電腦隨機選題，則可使用此功能<br>
-(2) 出考卷(手動出題)：若教師希望由手動選題，則可使用此功能<br>
-(3) 出卷歷史查詢：教師可查詢出過的考卷，若學生還沒作答該卷，也可以刪除考卷<br>
-(4) 個人資料修改：可修改教師個人資料<br>
+(1) [出考卷(電腦出題)](https://github.com/lun880818/OnlineTest/blob/main/README.md#5-%E5%87%BA%E8%80%83%E5%8D%B7%E9%9B%BB%E8%85%A6%E5%87%BA%E9%A1%8C)：若教師希望由電腦隨機選題，則可使用此功能<br>
+(2) [出考卷(手動出題)](https://github.com/lun880818/OnlineTest/blob/main/README.md#6-%E5%87%BA%E8%80%83%E5%8D%B7%E6%89%8B%E5%8B%95%E5%87%BA%E9%A1%8C)：若教師希望由手動選題，則可使用此功能<br>
+(3) [出卷歷史查詢](https://github.com/lun880818/OnlineTest/blob/main/README.md#7-%E5%87%BA%E5%8D%B7%E6%AD%B7%E5%8F%B2%E6%9F%A5%E8%A9%A2)：教師可查詢出過的考卷，若學生還沒作答該卷，也可以刪除考卷<br>
+(4) [個人資料修改](https://github.com/lun880818/OnlineTest/blob/main/README.md#8-%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99%E4%BF%AE%E6%94%B9%E5%8F%AF%E4%BF%AE%E6%94%B9%E6%95%99%E5%B8%AB%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99)：可修改教師個人資料<br>
 
 ![教師功能選單](GitHub解說圖片/教師功能選單.jpg)
 <br><br>
