@@ -62,7 +62,7 @@ This application allows teachers to create online quizzes for students and enabl
 (1) 教師須先選擇科目及年級進行篩選，篩過後，系統會顯示符合該條件的考卷總共有幾題。<br>
 
 <img src="GitHub解說圖片/電腦選題1.jpg" width="640" height="360" alt="電腦選題1">
-<br><br>
+<br>
 
 (2) 教師再選擇希望從中由電腦隨機出的題數，點擊「預覽考卷題目」，將可以查看電腦篩選選出的題目有哪些。<br>
 
