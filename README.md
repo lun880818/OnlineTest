@@ -24,7 +24,7 @@ This application allows teachers to create online quizzes for students and enabl
 若未註冊過會員，請先選擇「註冊教師帳號」<br>
 
 ![登入](GitHub解說圖片/登入頁.jpg)
-<br>
+<br><br>
 
 2. **教師註冊：**<br>
 請教師輸入相關資料以利註冊<br>
@@ -34,29 +34,40 @@ This application allows teachers to create online quizzes for students and enabl
 > ※行動電話：系統會自動判斷格式是否正確<br>
 
 ![教師註冊](GitHub解說圖片/教師註冊.jpg)
-<br>
+<br><br>
 
 3. **查詢密碼：**<br>
 若曾經註冊過但忘記密碼，可使用帳號及電話號碼查詢密碼。<br>
 查詢成功後，需要重新登入。<br>
 
 ![查詢密碼](GitHub解說圖片/密碼查詢.jpg)
-<br>
+<br><br>
 
 
 4. **教師功能選單：**<br>
 教師登入成功後將會進入功能選單頁面，可執行的功能有：<br>
-(1) 出考卷(電腦出題)<br>
-(2) 出考卷(手動出題)<br>
-(3) 出卷歷史查詢<br>
-(4) 個人資料修改<br>
+(1) 出考卷(電腦出題)：若教師希望由電腦隨機選題，則可使用此功能<br>
+(2) 出考卷(手動出題)：若教師希望由手動選題，則可使用此功能<br>
+(3) 出卷歷史查詢：教師可查詢出過的考卷，若學生還沒作答該卷，也可以刪除考卷<br>
+(4) 個人資料修改：可修改教師個人資料<br>
 
 ![教師功能選單](GitHub解說圖片/教師功能選單.jpg)
-<br>
+<br><br>
 
 
    
-6. **出考卷(電腦出題)**
+5. **出考卷(電腦出題)：**<br>
+若教師希望由電腦隨機選題，則可使用此功能
+
+![電腦選題1](GitHub解說圖片/電腦選題1.jpg)
+<br><br>
+
+
+
+![電腦選題2](GitHub解說圖片/電腦選題2.jpg)
+<br><br>
+
+
 7. **出考卷(手動出題)**
 8. **出卷歷史查詢**
 9. **個人資料修改**
@@ -64,3 +75,9 @@ This application allows teachers to create online quizzes for students and enabl
 ### 學生使用說明
 
 ##本程式後續會再精進的功能
+
+
+
+
+
+
