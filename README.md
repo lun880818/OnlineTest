@@ -7,7 +7,7 @@ This application allows teachers to create online quizzes for students and enabl
 
 ## 一、本程式架構
 
-![架構圖](GitHub解說圖片/架構圖.jpg)
+<img src="GitHub解說圖片/架構圖.jpg" width="200" height="150" alt="架構圖"><br><br>
 
 ※藍底的表示為教師與學生共用的頁面<br>
 ※橘底的表示教師登入後可使用的頁面<br>
