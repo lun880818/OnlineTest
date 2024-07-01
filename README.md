@@ -135,7 +135,7 @@ This application allows teachers to create online quizzes for students and enabl
 
 #### 4. **學生功能選單：**<br>
 學生登入成功後將會進入功能選單頁面，可執行的功能有：<br>
-(1) 開始寫考卷：進入[學生考卷列表](https://github.com/lun880818/OnlineTest/tree/main?tab=readme-ov-file#5-%E5%AD%B8%E7%94%9F%E8%80%83%E5%8D%B7%E5%88%97%E8%A1%A8))，讓學生選擇考卷進行作答<br>
+(1) 開始寫考卷：進入[學生考卷列表](https://github.com/lun880818/OnlineTest/tree/main?tab=readme-ov-file#5-%E5%AD%B8%E7%94%9F%E8%80%83%E5%8D%B7%E5%88%97%E8%A1%A8)，讓學生選擇考卷進行作答<br>
 (2) [歷史成績查詢](https://github.com/lun880818/OnlineTest/blob/main/README.md#7-%E6%AD%B7%E5%8F%B2%E6%88%90%E7%B8%BE%E6%9F%A5%E8%A9%A2)：學生可查詢寫過的考卷及成績<br>
 (3) [個人資料修改](https://github.com/lun880818/OnlineTest/blob/main/README.md#8-%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99%E4%BF%AE%E6%94%B9%E5%8F%AF%E4%BF%AE%E6%94%B9%E5%AD%B8%E7%94%9F%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99)：可修改學生個人資料<br>
 
@@ -154,6 +154,10 @@ This application allows teachers to create online quizzes for students and enabl
 本頁會顯示題目讓學生作答，若有題目為作答，系統會提醒學生檢查。<br>
 
 <img src="GitHub解說圖片/考卷.jpg" width="640" height="360" alt="考卷">
+<br>
+
+交卷後，會即時顯示考試結果。
+<img src="GitHub解說圖片/考試結果.jpg" width="640" height="360" alt="考試結果">
 <br><br>
 
 
