@@ -23,7 +23,7 @@ This application allows teachers to create online quizzes for students and enabl
 教師請選擇「教師登入」的頁籤，並輸入帳號密碼<br>
 若未註冊過會員，請先選擇「註冊教師帳號」<br>
 
-![登入](GitHub解說圖片/登入頁.jpg)
+<img src="GitHub解說圖片/登入頁" width="640" height="360" alt="登入">
 <br><br>
 
 
@@ -34,7 +34,7 @@ This application allows teachers to create online quizzes for students and enabl
 > ※確認密碼：系統會自動判斷書入的內容是否與密碼相同<br>
 > ※行動電話：系統會自動判斷格式是否正確<br>
 
-![教師註冊](GitHub解說圖片/教師註冊.jpg)
+<img src="GitHub解說圖片/教師註冊" width="640" height="360" alt="教師註冊">
 <br><br>
 
 
@@ -42,7 +42,7 @@ This application allows teachers to create online quizzes for students and enabl
 若曾經註冊過但忘記密碼，可使用帳號及電話號碼查詢密碼。<br>
 查詢成功後，需要重新登入。<br>
 
-![查詢密碼](GitHub解說圖片/密碼查詢.jpg)
+<img src="GitHub解說圖片/密碼查詢" width="640" height="360" alt="密碼查詢">
 <br><br>
 
 
@@ -53,7 +53,7 @@ This application allows teachers to create online quizzes for students and enabl
 (3) [出卷歷史查詢](https://github.com/lun880818/OnlineTest/blob/main/README.md#7-%E5%87%BA%E5%8D%B7%E6%AD%B7%E5%8F%B2%E6%9F%A5%E8%A9%A2)：教師可查詢出過的考卷，若學生還沒作答該卷，也可以刪除考卷<br>
 (4) [個人資料修改](https://github.com/lun880818/OnlineTest/blob/main/README.md#8-%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99%E4%BF%AE%E6%94%B9%E5%8F%AF%E4%BF%AE%E6%94%B9%E6%95%99%E5%B8%AB%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99)：可修改教師個人資料<br>
 
-![教師功能選單](GitHub解說圖片/教師功能選單.jpg)
+<img src="GitHub解說圖片/教師功能選單" width="640" height="360" alt="教師功能選單">
 <br><br>
 
 
@@ -61,12 +61,12 @@ This application allows teachers to create online quizzes for students and enabl
 若教師希望由電腦隨機選題，則可使用此功能<br>
 (1) 教師須先選擇科目及年級進行篩選，篩過後，系統會顯示符合該條件的考卷總共有幾題。<br>
 
-![電腦選題1](GitHub解說圖片/電腦選題1.jpg)
+<img src="GitHub解說圖片/電腦選題1" width="640" height="360" alt="電腦選題1">
 <br><br>
 
 (2) 教師再選擇希望從中由電腦隨機出的題數，點擊「預覽考卷題目」，將可以查看電腦篩選選出的題目有哪些。<br>
 
-![電腦選題2](GitHub解說圖片/電腦選題2.jpg)
+<img src="GitHub解說圖片/電腦選題2" width="640" height="360" alt="電腦選題2">
 <br><br>
 
 
@@ -77,7 +77,7 @@ This application allows teachers to create online quizzes for students and enabl
 (3) 反之，點選考卷清單中的某個題目後，使用「刪除」按鈕，可以將該題放回題目清單中。<br>
 (4) 點擊「下一步」，進入下一頁繼續輸入其他考卷資訊。<br>
 
-![手動選題](GitHub解說圖片/手動選題.jpg)
+<img src="GitHub解說圖片/手動選題" width="640" height="360" alt="手動選題">
 <br><br>
 
 
@@ -86,13 +86,13 @@ This application allows teachers to create online quizzes for students and enabl
 選擇學生後，下方表格會顯示教師曾經派給該學生哪些考卷。<br>
 若學生未完成該考卷，則教師可刪除該卷。<br>
 
-![教師出卷紀錄](GitHub解說圖片/教師出卷紀錄.jpg)
+<img src="GitHub解說圖片/教師出卷紀錄" width="640" height="360" alt="教師出卷紀錄">
 <br><br>
 
 
 #### 8. **個人資料修改：**　可修改教師個人資料<br><br>
 
-![教師資料修改](GitHub解說圖片/教師資料修改.jpg)
+<img src="GitHub解說圖片/教師資料修改" width="640" height="360" alt="教師資料修改">
 <br><br>
 
 
@@ -102,7 +102,7 @@ This application allows teachers to create online quizzes for students and enabl
 學生請選擇「學生登入」的頁籤，並輸入帳號密碼<br>
 若未註冊過會員，請先選擇「註冊學生帳號」<br>
 
-![登入](GitHub解說圖片/登入頁.jpg)
+<img src="GitHub解說圖片/登入頁" width="640" height="360" alt="登入">
 <br><br>
 
 
@@ -113,7 +113,7 @@ This application allows teachers to create online quizzes for students and enabl
 > ※確認密碼：系統會自動判斷書入的內容是否與密碼相同<br>
 > ※行動電話：系統會自動判斷格式是否正確<br>
 
-![學生註冊](GitHub解說圖片/學生註冊.jpg)
+<img src="GitHub解說圖片/學生註冊" width="640" height="360" alt="學生註冊">
 <br><br>
 
 
@@ -121,7 +121,7 @@ This application allows teachers to create online quizzes for students and enabl
 若曾經註冊過但忘記密碼，可使用帳號及電話號碼查詢密碼。<br>
 查詢成功後，需要重新登入。<br>
 
-![查詢密碼](GitHub解說圖片/密碼查詢.jpg)
+<img src="GitHub解說圖片/密碼查詢" width="640" height="360" alt="密碼查詢">
 <br><br>
 
 
@@ -131,34 +131,34 @@ This application allows teachers to create online quizzes for students and enabl
 (2) 歷史成績查詢：學生可查詢寫過的考卷及成績<br>
 (3) 個人資料修改：可修改學生個人資料<br>
 
-![學生功能選單](GitHub解說圖片/學生功能選單.jpg)
+<img src="GitHub解說圖片/學生功能選單" width="640" height="360" alt="學生功能選單">
 <br><br>
 
 
 #### 5. **學生考卷列表：**<br>
 將顯示學生還沒作答的考卷列表，選擇某一份考卷，再點擊「開始作答」，將進入[考試頁面](https://github.com/lun880818/OnlineTest/blob/main/README.md#6-%E8%80%83%E8%A9%A6%E9%A0%81%E9%9D%A2) <br>
 
-![學生考卷列表](GitHub解說圖片/學生考卷列表.jpg)
+<img src="GitHub解說圖片/學生考卷列表" width="640" height="360" alt="學生考卷列表">
 <br><br>
 
 
 #### 6. **考試頁面：**<br>
 本頁會顯示題目讓學生作答，若有題目為作答，系統會提醒學生檢查。<br>
 
-![考卷](GitHub解說圖片/考卷.jpg)
+<img src="GitHub解說圖片/考卷" width="640" height="360" alt="考卷">
 <br><br>
 
 
 #### 7. **歷史成績查詢：**<br>
 學生可查詢寫過的考卷及成績<br>
 
-![學生歷史成績查詢](GitHub解說圖片/學生歷史成績查詢.jpg)
+<img src="GitHub解說圖片/學生歷史成績查詢" width="640" height="360" alt="學生歷史成績查詢">
 <br><br>
 
 
 #### 8. **個人資料修改：**　可修改學生個人資料<br><br>
 
-![學生資料修改](GitHub解說圖片/學生資料修改.jpg)
+<img src="GitHub解說圖片/學生資料修改" width="640" height="360" alt="學生資料修改">
 <br><br>
 
 
