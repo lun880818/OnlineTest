@@ -17,7 +17,7 @@ This application allows teachers to create online quizzes for students and enabl
 
 
 ## 二、使用說明
-### 教師使用說明
+### ※教師使用說明
 
 #### 1. **登入：**<br>
 教師請選擇「教師登入」的頁籤，並輸入帳號密碼<br>
@@ -96,7 +96,7 @@ This application allows teachers to create online quizzes for students and enabl
 <br><br>
 
 
-### 學生使用說明
+### ※學生使用說明
 
 #### 1. **登入：**<br>
 學生請選擇「學生登入」的頁籤，並輸入帳號密碼<br>
