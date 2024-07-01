@@ -138,10 +138,10 @@ This application allows teachers to create online quizzes for students and enabl
 將顯示學生還沒作答的考卷列表，選擇某一份考卷，再點擊「開始作答」，將進入[考試頁面]()
 
 
-####6. **考試頁面：**
+#### 6. **考試頁面：**
 
 
-####7. **歷史成績查詢：**
+#### 7. **歷史成績查詢：**
 
 
 #### 8. **個人資料修改：**可修改學生個人資料<br><br>
