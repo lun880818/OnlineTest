@@ -1,6 +1,6 @@
-# OnlineTest
+# OnlineTest＜未知出版社＿國小線上題庫暨測驗系統＞
 This application allows teachers to create online quizzes for students and enables students to take exams online. <br><br>
-本程式主要想模擬教師及學生線上出題及作答的系統。<br>
+本程式希望能模擬教師及學生線上出題及作答的系統。<br>
 教師可於系統中製作考卷，並將考卷指定給其所屬學生。<br>
 而學生則可於系統中收到考卷，並直接線上作答。<br>
 教師出題記錄或學生作答紀錄，皆可進行歷史查詢。
