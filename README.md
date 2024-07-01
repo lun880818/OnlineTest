@@ -90,7 +90,7 @@ This application allows teachers to create online quizzes for students and enabl
 <br><br>
 
 
-#### 8. **個人資料修改：**可修改教師個人資料<br><br>
+#### 8. **個人資料修改：**　可修改教師個人資料<br><br>
 
 ![教師資料修改](GitHub解說圖片/教師資料修改.jpg)
 <br><br>
@@ -156,7 +156,7 @@ This application allows teachers to create online quizzes for students and enabl
 <br><br>
 
 
-#### 8. **個人資料修改：**可修改學生個人資料<br><br>
+#### 8. **個人資料修改：**　可修改學生個人資料<br><br>
 
 ![學生資料修改](GitHub解說圖片/學生資料修改.jpg)
 <br><br>
