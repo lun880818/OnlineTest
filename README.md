@@ -1,9 +1,13 @@
 # OnlineTest
 This application allows teachers to create online quizzes for students and enables students to take exams online.
 
-## 本程式架構
+## 一、本程式架構
 
-## 使用說明
+[架構圖](架構圖.jpg)
+
+
+
+## 二、使用說明
 ### 教師使用說明
 
 > 1. **註冊**：若未註冊過會員，請先選擇"註冊教師帳號"
