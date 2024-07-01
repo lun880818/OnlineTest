@@ -80,7 +80,8 @@ This application allows teachers to create online quizzes for students and enabl
 <img src="GitHub解說圖片/手動選題.jpg" width="640" height="360" alt="手動選題">
 <br><br>
 
-#### 7. **預覽考卷題目：**<br>
+#### 7. **預覽考卷題目：** <br>
+會顯示選題結果於表格中，教師須輸入每題的分數，以及該考卷要派卷給哪一位學生。<br>
 
 <img src="GitHub解說圖片/考卷題目預覽.jpg" width="640" height="360" alt="考卷題目預覽">
 <br>
