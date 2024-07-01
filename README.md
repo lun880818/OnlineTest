@@ -64,7 +64,7 @@ This application allows teachers to create online quizzes for students and enabl
 <img src="GitHub解說圖片/電腦選題1.jpg" width="640" height="360" alt="電腦選題1">
 <br>
 
-(2) 教師再選擇希望從中由電腦隨機出的題數，點擊「預覽考卷題目」，將可以查看電腦篩選選出的題目有哪些。<br>
+(2) 教師再選擇希望從中由電腦隨機出的題數，點擊「[預覽考卷題目](https://github.com/lun880818/OnlineTest/blob/main/README.md#7-%E9%A0%90%E8%A6%BD%E8%80%83%E5%8D%B7%E9%A1%8C%E7%9B%AE-)」，將可以查看電腦篩選選出的題目有哪些。<br>
 
 <img src="GitHub解說圖片/電腦選題2.jpg" width="640" height="360" alt="電腦選題2">
 <br><br>
@@ -75,7 +75,7 @@ This application allows teachers to create online quizzes for students and enabl
 (1) 教師須先選擇科目及年級進行篩選，篩過後，系統會顯示符合該條件的考卷列表。<br>
 (2) 點選題目清單中的某個題目後，使用「新增」按鈕，可以將該題放入下方的考卷清單中。<br>
 (3) 反之，點選考卷清單中的某個題目後，使用「刪除」按鈕，可以將該題放回題目清單中。<br>
-(4) 點擊「下一步」，進入下一頁繼續輸入其他考卷資訊。<br>
+(4) 點擊「下一步」，進入下一頁[預覽考卷題目](https://github.com/lun880818/OnlineTest/blob/main/README.md#7-%E9%A0%90%E8%A6%BD%E8%80%83%E5%8D%B7%E9%A1%8C%E7%9B%AE-)繼續輸入其他考卷資訊。<br>
 
 <img src="GitHub解說圖片/手動選題.jpg" width="640" height="360" alt="手動選題">
 <br><br>
@@ -136,8 +136,8 @@ This application allows teachers to create online quizzes for students and enabl
 #### 4. **學生功能選單：**<br>
 學生登入成功後將會進入功能選單頁面，可執行的功能有：<br>
 (1) 開始寫考卷：進入[學生考卷列表](https://github.com/lun880818/OnlineTest/tree/main?tab=readme-ov-file#5-%E5%AD%B8%E7%94%9F%E8%80%83%E5%8D%B7%E5%88%97%E8%A1%A8))，讓學生選擇考卷進行作答<br>
-(2) 歷史成績查詢：學生可查詢寫過的考卷及成績<br>
-(3) 個人資料修改：可修改學生個人資料<br>
+(2) [歷史成績查詢]()：學生可查詢寫過的考卷及成績<br>
+(3) [個人資料修改]()：可修改學生個人資料<br>
 
 <img src="GitHub解說圖片/學生功能選單.jpg" width="640" height="360" alt="學生功能選單">
 <br><br>
