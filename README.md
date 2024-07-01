@@ -3,7 +3,7 @@ This application allows teachers to create online quizzes for students and enabl
 
 ## 一、本程式架構
 
-[架構圖](架構圖.jpg)
+[架構圖](GitHub解說圖片/架構圖.jpg)
 
 
 
