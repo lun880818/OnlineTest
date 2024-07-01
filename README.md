@@ -1,9 +1,12 @@
 # OnlineTest
 This application allows teachers to create online quizzes for students and enables students to take exams online.
+本程式是模擬教師及學生線上出題及作答的系統，教師可於系統中製作考卷，並將考卷指定給其所屬學生。而學生則可於系統中收到考卷，並直接線上作答。教師出題記錄或學生作紀錄，皆可進行歷史查詢。
 
 ## 一、本程式架構
 
-[架構圖](GitHub解說圖片/架構圖.jpg)
+![架構圖](GitHub解說圖片/架構圖.jpg)
+
+※藍底的表示為
 
 
 
