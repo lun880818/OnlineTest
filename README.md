@@ -17,6 +17,11 @@ This application allows teachers to create online quizzes for students and enabl
 
 
 ## 二、使用說明
+1. [教師使用說明](https://github.com/lun880818/OnlineTest/tree/main?tab=readme-ov-file#%E6%95%99%E5%B8%AB%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E)<br>
+2. [學生使用說明](https://github.com/lun880818/OnlineTest/tree/main?tab=readme-ov-file#%E5%AD%B8%E7%94%9F%E4%BD%BF%E7%94%A8%E8%AA%AA%E6%98%8E)<br>
+
+<hr>
+
 ### ※教師使用說明
 
 #### 1. **登入：**<br>
@@ -103,6 +108,7 @@ This application allows teachers to create online quizzes for students and enabl
 <img src="GitHub解說圖片/教師資料修改.jpg" width="640" height="360" alt="教師資料修改">
 <br><br>
 
+<hr>
 
 ### ※學生使用說明
 
@@ -173,7 +179,7 @@ This application allows teachers to create online quizzes for students and enabl
 <img src="GitHub解說圖片/學生資料修改.jpg" width="640" height="360" alt="學生資料修改">
 <br><br>
 
-
+<hr>
 
 ## 本程式後續會再精進的功能
 1. 新增另一個管理員身分。<br>
