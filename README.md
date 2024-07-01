@@ -19,7 +19,7 @@ This application allows teachers to create online quizzes for students and enabl
 ## 二、使用說明
 ### 教師使用說明
 
-1. **登入：**<br>
+#### 1. **登入：**<br>
 教師請選擇「教師登入」的頁籤，並輸入帳號密碼<br>
 若未註冊過會員，請先選擇「註冊教師帳號」<br>
 
@@ -27,7 +27,7 @@ This application allows teachers to create online quizzes for students and enabl
 <br><br>
 
 
-2. **教師註冊：**<br>
+#### 2. **教師註冊：**<br>
 請教師輸入相關資料以利註冊<br>
 > ※帳號：系統會自動判斷是否有人註冊過此帳號<br>
 > ※密碼：系統會自動判斷是否為英文或數字，且不可含有空白<br>
@@ -38,7 +38,7 @@ This application allows teachers to create online quizzes for students and enabl
 <br><br>
 
 
-3. **查詢密碼：**<br>
+#### 3. **查詢密碼：**<br>
 若曾經註冊過但忘記密碼，可使用帳號及電話號碼查詢密碼。<br>
 查詢成功後，需要重新登入。<br>
 
@@ -46,7 +46,7 @@ This application allows teachers to create online quizzes for students and enabl
 <br><br>
 
 
-4. **教師功能選單：**<br>
+#### 4. **教師功能選單：**<br>
 教師登入成功後將會進入功能選單頁面，可執行的功能有：<br>
 (1) 出考卷(電腦出題)：若教師希望由電腦隨機選題，則可使用此功能<br>
 (2) 出考卷(手動出題)：若教師希望由手動選題，則可使用此功能<br>
@@ -57,7 +57,7 @@ This application allows teachers to create online quizzes for students and enabl
 <br><br>
 
 
-5. **出考卷(電腦出題)：**<br>
+#### 5. **出考卷(電腦出題)：**<br>
 若教師希望由電腦隨機選題，則可使用此功能<br>
 (1) 教師須先選擇科目及年級進行篩選，篩過後，系統會顯示符合該條件的考卷總共有幾題。<br>
 
@@ -70,7 +70,7 @@ This application allows teachers to create online quizzes for students and enabl
 <br><br>
 
 
-6. **出考卷(手動出題)：**<br>
+#### 6. **出考卷(手動出題)：**<br>
 若教師希望由手動選題，則可使用此功能<br>
 (1) 教師須先選擇科目及年級進行篩選，篩過後，系統會顯示符合該條件的考卷列表。<br>
 (2) 點選題目清單中的某個題目後，使用「新增」按鈕，可以將該題放入下方的考卷清單中。<br>
@@ -78,10 +78,10 @@ This application allows teachers to create online quizzes for students and enabl
 (4) 點擊「下一步」，進入下一頁繼續輸入其他考卷資訊。<br>
 
 ![手動選題](GitHub解說圖片/手動選題.jpg)
+<br><br>
 
 
-
-7. **出卷歷史查詢：**<br>
+#### 7. **出卷歷史查詢：**<br>
 教師可查詢出過的考卷。<br>
 選擇學生後，下方表格會顯示教師曾經派給該學生哪些考卷。<br>
 若學生未完成該考卷，則教師可刪除該卷。<br>
@@ -90,7 +90,7 @@ This application allows teachers to create online quizzes for students and enabl
 <br><br>
 
 
-8. **個人資料修改：**可修改教師個人資料<br><br>
+#### 8. **個人資料修改：**可修改教師個人資料<br><br>
 
 ![教師資料修改](GitHub解說圖片/教師資料修改.jpg)
 <br><br>
@@ -103,7 +103,7 @@ This application allows teachers to create online quizzes for students and enabl
 
 
 
-##本程式後續會再精進的功能
+## 本程式後續會再精進的功能
 1. 新增另一個管理員身分。<br>
 2. 將教師與學生的關係設定交給管理員處理。<br>
 3. 增加題庫的 新增、修改、刪除功能(僅由管理員進行)。<br>
