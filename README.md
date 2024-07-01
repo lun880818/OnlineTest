@@ -80,8 +80,15 @@ This application allows teachers to create online quizzes for students and enabl
 <img src="GitHub解說圖片/手動選題.jpg" width="640" height="360" alt="手動選題">
 <br><br>
 
+#### 7. **預覽考卷題目：**<br>
 
-#### 7. **出卷歷史查詢：**<br>
+<img src="GitHub解說圖片/考卷題目預覽.jpg" width="640" height="360" alt="考卷題目預覽">
+<br>
+
+<img src="GitHub解說圖片/考卷題目預覽2.jpg" width="640" height="360" alt="考卷題目預覽2">
+<br><br>
+
+#### 8. **出卷歷史查詢：**<br>
 教師可查詢出過的考卷。<br>
 選擇學生後，下方表格會顯示教師曾經派給該學生哪些考卷。<br>
 若學生未完成該考卷，則教師可刪除該卷。<br>
@@ -90,7 +97,7 @@ This application allows teachers to create online quizzes for students and enabl
 <br><br>
 
 
-#### 8. **個人資料修改：**　可修改教師個人資料<br><br>
+#### 9. **個人資料修改：**　可修改教師個人資料<br><br>
 
 <img src="GitHub解說圖片/教師資料修改.jpg" width="640" height="360" alt="教師資料修改">
 <br><br>
